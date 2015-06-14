@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <nodes>
 
-    <node ftnaddress="2:5020/9999">
+    <node ftnaddress="2:5020/9999" requestby="http">
         <country>Russia</country>
         <city>Moscow</city>
         <system>Test node just testing</system>
@@ -11,6 +11,16 @@
         <ipaddress>vp.propush.ru:24555</ipaddress>
         <pntrequesturl>http://vp.propush.ru/testpntreq/request.php</pntrequesturl>
         <areas>http://vp.propush.ru/testpntreq/areas</areas>
+    </node>
+
+    <node ftnaddress="2:5020/9998" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
     </node>
 
 </nodes>
