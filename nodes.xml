@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes>
+
+    <node ftnaddress="2:5020/9999">
+        <country>Russia</country>
+        <city>Moscow</city>
+        <protocol>binkp</protocol>
+        <ipaddress>vp.propush.ru:24555</ipaddress>
+        <pntrequesturl>http://vp.propush.ru/testpntreq/request.php</pntrequesturl>
+        <areas>http://vp.propush.ru/testpntreq/areas</areas>
+    </node>
+
+</nodes>
