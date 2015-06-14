@@ -6,6 +6,7 @@
         <city>Moscow</city>
         <system>Test node just testing</system>
         <sysop>Ivan Petrov</sysop>
+        <email>sysop@fidonet.net</email>
         <protocol>binkp</protocol>
         <ipaddress>vp.propush.ru:24555</ipaddress>
         <pntrequesturl>http://vp.propush.ru/testpntreq/request.php</pntrequesturl>
