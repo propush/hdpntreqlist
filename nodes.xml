@@ -31,6 +31,7 @@
         <email>vbane72@yandex.ru</email>
         <protocol>binkp</protocol>
         <ipaddress>localhost</ipaddress>
+        <areas>http://vp.propush.ru/testpntreq/areas</areas>
     </node>
 
     <node ftnaddress="2:5020/9996" requestby="email">
@@ -41,6 +42,7 @@
         <email>vbane72@yandex.ru</email>
         <protocol>binkp</protocol>
         <ipaddress>localhost</ipaddress>
+        <areasfull>http://vp.propush.ru/testpntreq/areasfull</areas>
     </node>
 
     <node ftnaddress="2:5020/9995" requestby="email">
