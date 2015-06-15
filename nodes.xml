@@ -23,4 +23,234 @@
         <ipaddress>localhost</ipaddress>
     </node>
 
+    <node ftnaddress="2:5020/9997" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
+    </node>
+
+    <node ftnaddress="2:5020/9996" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
+    </node>
+
+    <node ftnaddress="2:5020/9995" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
+    </node>
+
+    <node ftnaddress="2:5020/9994" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
+    </node>
+
+    <node ftnaddress="2:5020/9993" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
+    </node>
+
+    <node ftnaddress="2:5020/9992" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
+    </node>
+
+    <node ftnaddress="2:5020/9991" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
+    </node>
+
+    <node ftnaddress="2:5020/9990" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
+    </node>
+
+    <node ftnaddress="2:5020/9989" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
+    </node>
+
+    <node ftnaddress="2:5020/9988" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
+    </node>
+
+    <node ftnaddress="2:5020/9987" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
+    </node>
+
+    <node ftnaddress="2:5020/9986" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
+    </node>
+
+    <node ftnaddress="2:5020/9985" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
+    </node>
+
+    <node ftnaddress="2:5020/9984" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
+    </node>
+
+    <node ftnaddress="2:5020/9983" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
+    </node>
+
+    <node ftnaddress="2:5020/99981" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
+    </node>
+
+    <node ftnaddress="2:5020/99982" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
+    </node>
+
+    <node ftnaddress="2:5020/99983" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
+    </node>
+
+    <node ftnaddress="2:5020/99984" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
+    </node>
+
+    <node ftnaddress="2:5020/99985" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
+    </node>
+
+    <node ftnaddress="2:5020/99986" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
+    </node>
+
+    <node ftnaddress="2:5020/99987" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
+    </node>
+
+    <node ftnaddress="2:5020/99988" requestby="email">
+        <country>Some country</country>
+        <city>Burgergrad</city>
+        <system>Burger lovers station</system>
+        <sysop>Vano Sysopov</sysop>
+        <email>vbane72@yandex.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>localhost</ipaddress>
+    </node>
+
 </nodes>
