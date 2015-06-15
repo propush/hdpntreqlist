@@ -42,7 +42,7 @@
         <email>vbane72@yandex.ru</email>
         <protocol>binkp</protocol>
         <ipaddress>localhost</ipaddress>
-        <areasfull>http://vp.propush.ru/testpntreq/areasfull</areas>
+        <areasfull>http://vp.propush.ru/testpntreq/areasfull</areasfull>
     </node>
 
     <node ftnaddress="2:5020/9995" requestby="email">
@@ -65,14 +65,16 @@
         <ipaddress>localhost</ipaddress>
     </node>
 
-    <node ftnaddress="2:5020/9993" requestby="email">
+    <node ftnaddress="2:5020/9993" requestby="http">
         <country>Some country</country>
         <city>Burgergrad</city>
         <system>Burger lovers station</system>
         <sysop>Vano Sysopov</sysop>
+        <pntrequesturl>http://vp.propush.ru/testpntreq/requestbad.php</pntrequesturl>
         <email>vbane72@yandex.ru</email>
         <protocol>binkp</protocol>
         <ipaddress>localhost</ipaddress>
+        <areasfull>http://vp.propush.ru/testpntreq/areasfull</areasfull>
     </node>
 
     <node ftnaddress="2:5020/9992" requestby="email">
