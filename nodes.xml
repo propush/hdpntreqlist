@@ -27,7 +27,7 @@
         <protocol>binkp</protocol>
         <ipaddress>vp.propush.ru:24555</ipaddress>
         <pntrequesturl>http://vp.propush.ru/testpntreq/request.php</pntrequesturl>
-        <areasfull>http://vp.propush.ru/testpntreq/areasfull</areas>
+        <areasfull>http://vp.propush.ru/testpntreq/areasfull</areasfull>
     </node>
     <node ftnaddress="2:5020/9999" requestby="http">
         <country>Russia</country>
