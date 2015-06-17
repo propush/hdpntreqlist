@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <nodes>
-
+   <node ftnaddress="2:5053/54" requestby="email">
+       <country>Russia</country>
+       <city>Saratov</city>
+       <system>Zombie system</system>
+       <sysop>Denis Mikhlevich</sysop>
+       <email>denis@mikhlevich.ru</email>
+       <protocol>binkp</protocol>
+       <ipaddress>ftpserver.org.ru</ipaddress>
+   </node>
     <node ftnaddress="2:5020/9999" requestby="http">
         <country>Russia</country>
         <city>Moscow</city>
