@@ -23,7 +23,7 @@
         <city>Moscow</city>
         <system>Pushkin's BBS</system>
         <sysop>Sergey Poziturin</sysop>
-        <note>Welcome, friends. No fileechoes.\nДобро пожаловать. Файлэх нет.</note>
+        <note>Welcome, friends. A lot of echoes. No fileechoes. Добро пожаловать. Много эх. Файлэх нет.</note>
         <email>offspr@pochta.ru</email>
         <protocol>binkp</protocol>
         <ipaddress>vp.propush.ru:24555</ipaddress>
