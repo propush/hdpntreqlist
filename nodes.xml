@@ -146,8 +146,8 @@
     </node>
 
     <node ftnaddress="2:5020/9988" requestby="email">
-        <country>Some country</country>
-        <city>Burgergrad</city>
+        <country>Some country2</country>
+        <city>Burgergrad2</city>
         <system>Burger lovers station</system>
         <sysop>Vano Sysopov</sysop>
         <email>vbane72@yandex.ru</email>
@@ -156,8 +156,8 @@
     </node>
 
     <node ftnaddress="2:5020/9987" requestby="email">
-        <country>Some country</country>
-        <city>Burgergrad</city>
+        <country>Some country2</country>
+        <city>Burgergrad2</city>
         <system>Burger lovers station</system>
         <sysop>Vano Sysopov</sysop>
         <email>vbane72@yandex.ru</email>
@@ -166,8 +166,7 @@
     </node>
 
     <node ftnaddress="2:5020/9986" requestby="email">
-        <country>Some country</country>
-        <city>Burgergrad</city>
+        <country>Some country3</country>
         <system>Burger lovers station</system>
         <sysop>Vano Sysopov</sysop>
         <email>vbane72@yandex.ru</email>
