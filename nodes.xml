@@ -167,6 +167,7 @@
 
     <node ftnaddress="2:5020/9986" requestby="email">
         <country>Some country3</country>
+        <city></city>
         <system>Burger lovers station</system>
         <sysop>Vano Sysopov</sysop>
         <email>vbane72@yandex.ru</email>
