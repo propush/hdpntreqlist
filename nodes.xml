@@ -9,6 +9,17 @@
        <protocol>binkp</protocol>
        <ipaddress>ftpserver.org.ru</ipaddress>
    </node>
+    <node ftnaddress="2:5020/2141" requestby="http">
+        <country>Russia</country>
+        <city>Moscow</city>
+        <system>Pushkin's BBS</system>
+        <sysop>Sergey Poziturin</sysop>
+        <email>offspr@pochta.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>vp.propush.ru:24555</ipaddress>
+        <pntrequesturl>http://vp.propush.ru/testpntreq/request.php</pntrequesturl>
+        <areasfull>http://vp.propush.ru/testpntreq/areasfull</areas>
+    </node>
     <node ftnaddress="2:5020/9999" requestby="http">
         <country>Russia</country>
         <city>Moscow</city>
