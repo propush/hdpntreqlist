@@ -27,7 +27,7 @@
         <email>offspr@pochta.ru</email>
         <protocol>binkp</protocol>
         <ipaddress>vp.propush.ru:24555</ipaddress>
-        <pntrequesturl>http://vp.propush.ru/testpntreq/request.php</pntrequesturl>
+        <pntrequesturl>http://vp.propush.ru/pntreq/request.php</pntrequesturl>
         <areasfull>http://vp.propush.ru/pntreq/areasfull</areasfull>
     </node>
     <node ftnaddress="2:5020/848" requestby="http">
