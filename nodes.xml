@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <nodes>
+    <node ftnaddress="2:5020/2024" requestby="email">
+        <country>Russia</country>
+        <city>Moscow</city>
+        <system>MWN Chernokozov</system>
+        <sysop>Dmitry Chernokozov</sysop>
+        <email>dmitry@chernokozov.com</email>
+        <protocol>binkp</protocol>
+        <ipaddress>chernokozov.com</ipaddress>
+    </node>
     <node ftnaddress="2:5020/1906" requestby="email">
         <country>Russia</country>
         <city>Moscow</city>
