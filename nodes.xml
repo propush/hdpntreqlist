@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<node ftnaddress="2:5055/73" requestby="email">
-     <country>Russia</country>
-     <city>Volgograd</city>
-     <system>Last Day Station</system>
-     <sysop>Denis Lyzhenko</sysop>
-     <email>fido5055@mail.ru</email>
-     <protocol>binkp</protocol>
-     <ipaddress>node73.daemony.ru</ipaddress>
-     <areas>http://mail.daemony.ru/fido/areas</areas>
-</node>
 <nodes>
+     <node ftnaddress="2:5055/73" requestby="email">
+          <country>Russia</country>
+          <city>Volgograd</city>
+          <system>Last Day Station</system>
+          <sysop>Denis Lyzhenko</sysop>
+          <email>fido5055@mail.ru</email>
+          <protocol>binkp</protocol>
+          <ipaddress>node73.daemony.ru</ipaddress>
+          <areas>http://mail.daemony.ru/fido/areas</areas>
+     </node>
     <node ftnaddress="2:5057/19" requestby="email">
         <country>Russia</country>
         <city>Samara</city>
