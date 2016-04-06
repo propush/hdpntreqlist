@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <nodes>
+     <node ftnaddress="2:5068/350" requestby="email">
+          <country>Russia</country>
+          <city>Tcherepovets</city>
+          <system>MadxStatiob</system>
+          <sysop>Maksim Ivanov</sysop>
+          <email>madx2000@gmail.com</email>
+          <protocol>binkp</protocol>
+          <ipaddress>madx.ddns.net</ipaddress>
+     </node>
      <node ftnaddress="2:5055/73" requestby="email">
           <country>Russia</country>
           <city>Volgograd</city>
