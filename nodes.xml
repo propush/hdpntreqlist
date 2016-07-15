@@ -3,7 +3,7 @@
      <node ftnaddress="2:5068/350" requestby="email">
           <country>Russia</country>
           <city>Tcherepovets</city>
-          <system>MadxStation</system>
+          <system>MadxStatiob</system>
           <sysop>Maksim Ivanov</sysop>
           <email>madx2000@gmail.com</email>
           <protocol>binkp</protocol>
@@ -54,16 +54,6 @@
         <email>denis@mikhlevich.ru</email>
         <protocol>binkp</protocol>
         <ipaddress>ftpserver.org.ru</ipaddress>
-    </node>
-    <node ftnaddress="2:5053/58" requestby="email">
-        <country>Russia</country>
-        <city>Saratov</city>
-        <system>AroundFamilyNode</system>
-        <sysop>Alexandr Kruglikov</sysop>
-        <note>Welcome! BlackJack and hookers here! =)</note>
-        <email>alexandr@kruglikov.info</email>
-        <protocol>binkp</protocol>
-        <ipaddress>fido.kruglikov.info</ipaddress>
     </node>
     <node ftnaddress="2:5020/2141" requestby="http">
         <country>Russia</country>
