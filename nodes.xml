@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <nodes>
+     <node ftnaddress="2:5020/570" requestby="email">
+          <country>Russia</country>
+          <city>Moscow</city>
+          <system>Altyn</system>
+          <sysop>Dima Bargamov</sysop>
+          <note>jnode web http://altynclub.ru:8181</note>
+          <email>rx3avd@mail.ru</email>
+          <protocol>binkp</protocol>
+          <ipaddress>altynclub.ru</ipaddress>
+     </node>
      <node ftnaddress="2:5068/350" requestby="email">
           <country>Russia</country>
           <city>Tcherepovets</city>
