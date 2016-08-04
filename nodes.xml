@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <nodes>
+     <node ftnaddress="2:5020/723" requestby="email">
+          <country>Russia</country>
+          <city>Moscow,Balashiha</city>
+          <system>NCC1701</system>
+          <sysop>Sergey Chumakov</sysop>
+          <note>Помогу побороть софт, отвечу на все вопросы, попьём пивка</note>
+          <email>truedowngrade@gmail.com</email>
+          <protocol>binkp</protocol>
+          <ipaddress>195.133.48.10</ipaddress>
+     </node>
      <node ftnaddress="2:5020/570" requestby="email">
           <country>Russia</country>
           <city>Moscow</city>
