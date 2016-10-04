@@ -1,43 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <nodes>
+     <node ftnaddress="2:5075/35" requestby="email">
+        <country>Russia</country>
+        <city>Togliatti</city>
+        <system>Firefox Station</system>
+        <sysop>Eugene Subbotin</sysop>
+        <note>Wordwide, Russian and German echoes. Общемировые, русские и немецкие эхи.</note>
+        <email>evs@subbotin.org</email>
+        <protocol>binkp</protocol>
+        <ipaddress>fido.subbotin.org</ipaddress>
+        <areas>http://www.subbotin.org/fido/areas</areas>
+     </node>
      <node ftnaddress="2:5020/723" requestby="email">
-          <country>Russia</country>
-          <city>Moscow,Balashiha</city>
-          <system>NCC1701</system>
-          <sysop>Sergey Chumakov</sysop>
-          <note>Помогу побороть софт, отвечу на все вопросы, попьём пивка</note>
-          <email>truedowngrade@gmail.com</email>
-          <protocol>binkp</protocol>
-          <ipaddress>195.133.48.10</ipaddress>
+        <country>Russia</country>
+        <city>Moscow,Balashiha</city>
+        <system>NCC1701</system>
+        <sysop>Sergey Chumakov</sysop>
+        <note>Помогу побороть софт, отвечу на все вопросы, попьём пивка</note>
+        <email>truedowngrade@gmail.com</email>
+        <protocol>binkp</protocol>
+        <ipaddress>195.133.48.10</ipaddress>
      </node>
      <node ftnaddress="2:5020/570" requestby="email">
-          <country>Russia</country>
-          <city>Moscow</city>
-          <system>Altyn</system>
-          <sysop>Dima Bargamov</sysop>
-          <note>jnode web http://altynclub.ru:8181</note>
-          <email>rx3avd@mail.ru</email>
-          <protocol>binkp</protocol>
-          <ipaddress>altynclub.ru</ipaddress>
+        <country>Russia</country>
+        <city>Moscow</city>
+        <system>Altyn</system>
+        <sysop>Dima Bargamov</sysop>
+        <note>jnode web http://altynclub.ru:8181</note>
+        <email>rx3avd@mail.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>altynclub.ru</ipaddress>
      </node>
      <node ftnaddress="2:5068/350" requestby="email">
-          <country>Russia</country>
-          <city>Tcherepovets</city>
-          <system>MadxStation</system>
-          <sysop>Maksim Ivanov</sysop>
-          <email>madx2000@gmail.com</email>
-          <protocol>binkp</protocol>
-          <ipaddress>madx.ddns.net</ipaddress>
+        <country>Russia</country>
+        <city>Tcherepovets</city>
+        <system>MadxStation</system>
+        <sysop>Maksim Ivanov</sysop>
+        <email>madx2000@gmail.com</email>
+        <protocol>binkp</protocol>
+        <ipaddress>madx.ddns.net</ipaddress>
      </node>
      <node ftnaddress="2:5055/73" requestby="email">
-          <country>Russia</country>
-          <city>Volgograd</city>
-          <system>Last Day Station</system>
-          <sysop>Denis Lyzhenko</sysop>
-          <email>fido5055@mail.ru</email>
-          <protocol>binkp</protocol>
-          <ipaddress>node73.daemony.ru</ipaddress>
-          <areas>http://mail.daemony.ru/fido/areas</areas>
+        <country>Russia</country>
+        <city>Volgograd</city>
+        <system>Last Day Station</system>
+        <sysop>Denis Lyzhenko</sysop>
+        <email>fido5055@mail.ru</email>
+        <protocol>binkp</protocol>
+        <ipaddress>node73.daemony.ru</ipaddress>
+        <areas>http://mail.daemony.ru/fido/areas</areas>
      </node>
     <node ftnaddress="2:5057/19" requestby="email">
         <country>Russia</country>
