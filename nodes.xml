@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <nodes>
+     <!--
      <node ftnaddress="2:5020/222" requestby="http">
           <country>Russia</country>
           <city>Moscow</city>
@@ -11,6 +12,7 @@
           <pntrequesturl>http://fido.owlsystem.net/pointreq.html</pntrequesturl>
           <areasfull>http://fido.owlsystem.net/areasfull</areasfull>
      </node>
+     -->
      <node ftnaddress="2:5075/35" requestby="email">
         <country>Russia</country>
         <city>Togliatti</city>
