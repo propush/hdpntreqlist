@@ -86,7 +86,7 @@
         <protocol>binkp</protocol>
         <ipaddress>ftpserver.org.ru</ipaddress>
     </node>
-    <node ftnaddress="2:5053/58" requestby="email">
+    <node ftnaddress="2:5053/58" requestby="http">
         <country>Russia</country>
         <city>Saratov</city>
         <system>AroundFamilyNode</system>
@@ -95,6 +95,8 @@
         <email>alexandr@kruglikov.info</email>
         <protocol>binkp</protocol>
         <ipaddress>fido.kruglikov.info</ipaddress>
+        <pntrequesturl>http://fido.kruglikov.info/req.php</pntrequesturl>
+        <areas>http://fido.kruglikov.info/req.php</areas>
     </node>
     <node ftnaddress="2:5020/2141" requestby="http">
         <country>Russia</country>
@@ -106,7 +108,7 @@
         <protocol>binkp</protocol>
         <ipaddress>vp.propush.ru:24555</ipaddress>
         <pntrequesturl>http://vp.propush.ru/pntreq/request.php</pntrequesturl>
-        <areasfull>http://vp.propush.ru/pntreq/areasfull</areasfull>
+        <areas>https://fido.kruglikov.info/filebox/58.echos/5053-58.lst</areas>
     </node>
     <node ftnaddress="2:5020/848" requestby="http">
         <country>Russia</country>
