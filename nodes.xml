@@ -96,7 +96,7 @@
         <protocol>binkp</protocol>
         <ipaddress>fido.kruglikov.info</ipaddress>
         <pntrequesturl>http://fido.kruglikov.info/req.php</pntrequesturl>
-        <areas>http://fido.kruglikov.info/req.php</areas>
+        <areas>http://fido.kruglikov.info/filebox/58.echos/5053-58.lst</areas>
     </node>
     <node ftnaddress="2:5020/2141" requestby="http">
         <country>Russia</country>
