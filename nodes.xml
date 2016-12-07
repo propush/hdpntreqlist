@@ -108,7 +108,7 @@
         <protocol>binkp</protocol>
         <ipaddress>vp.propush.ru:24555</ipaddress>
         <pntrequesturl>http://vp.propush.ru/pntreq/request.php</pntrequesturl>
-        <areas>https://fido.kruglikov.info/filebox/58.echos/5053-58.lst</areas>
+        <areasfull>http://vp.propush.ru/pntreq/areasfull</areasfull>
     </node>
     <node ftnaddress="2:5020/848" requestby="http">
         <country>Russia</country>
