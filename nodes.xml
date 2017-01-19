@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <nodes>
+     <node ftnaddress="2:469/335" requestby="email">
+        <country>Moldova</country>
+        <city>Chisinau</city>
+        <system>Silver Dream</system>
+        <sysop>Andrei Mihailov</sysop>
+        <email>andrei.mihailov@startehno.md</email>
+        <protocol>binkp</protocol>
+        <ipaddress>217.26.167.136</ipaddress>
+     </node>
      <node ftnaddress="2:5075/35" requestby="email">
         <country>Russia</country>
         <city>Togliatti</city>
