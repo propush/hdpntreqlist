@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <nodes>
+     <node ftnaddress="2:2452/250" requestby="email">
+        <country>Germany</country>
+        <city>Merzenich</city>
+        <system>Doene BBS</system>
+        <sysop>Dieter Schauf</sysop>
+        <email>bbs@doene.de</email>
+        <protocol>binkp</protocol>
+        <ipaddress>ftn.doene.de</ipaddress>
+        <areasfull>http://www.doene.de/down/areas.lst</areasfull>
+    </node>
      <node ftnaddress="2:469/335" requestby="email">
         <country>Moldova</country>
         <city>Chisinau</city>
