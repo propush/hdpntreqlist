@@ -51,15 +51,17 @@
         <protocol>binkp</protocol>
         <ipaddress>195.133.48.10</ipaddress>
      </node>
-     <node ftnaddress="2:5020/570" requestby="email">
+     <node ftnaddress="2:5020/570" requestby="http">
         <country>Russia</country>
         <city>Moscow</city>
         <system>Altyn</system>
         <sysop>Dima Bargamov</sysop>
-        <note>jnode web http://altynclub.ru:8181</note>
+        <note>Welcome to fidonet on http://altynclub.ru:8181</note>
         <email>rx3avd@mail.ru</email>
         <protocol>binkp</protocol>
-        <ipaddress>altynclub.ru</ipaddress>
+        <ipaddress>altynclub.ru:24554</ipaddress>
+        <pntrequesturl>http://fido.altynclub.ru</pntrequesturl>
+        <areasfull>http://altynclub.ru/fido/areas.txt</areasfull>
      </node>
      <node ftnaddress="2:5068/350" requestby="email">
         <country>Russia</country>
