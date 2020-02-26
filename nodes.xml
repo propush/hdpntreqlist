@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <nodes>
+     <node ftnaddress="4:902/26" requestby="email">
+        <country>Argentina</country>
+        <city>Dock Sud</city>
+        <system>Dock Sud BBS</system>
+        <sysop>Fernando Toledo</sysop>
+        <note>Acceso a Fidonet desde Argentina</note>
+        <email>ragnarok@docksud.com.ar</email>
+        <protocol>binkp</protocol>
+        <ipaddress>bbs.docksud.com.ar</ipaddress>
+        <areasfull>https:/bbs.docksud.com.ar/hde_areas</areasfull>
+     </node>
      <node ftnaddress="2:240/1120" requestby="email">
         <country>Germany</country>
         <city>Bad Ueberkingen</city>
