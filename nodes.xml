@@ -52,16 +52,6 @@
         <ipaddress>fido.subbotin.org</ipaddress>
         <areas>http://www.subbotin.org/fido/areas</areas>
      </node>
-     <node ftnaddress="2:5020/723" requestby="email">
-        <country>Russia</country>
-        <city>Moscow,Balashiha</city>
-        <system>NCC1701</system>
-        <sysop>Sergey Chumakov</sysop>
-        <note>Помогу побороть софт, отвечу на все вопросы, попьём пивка</note>
-        <email>truedowngrade@gmail.com</email>
-        <protocol>binkp</protocol>
-        <ipaddress>195.133.48.10</ipaddress>
-     </node>
      <node ftnaddress="2:5020/570" requestby="http">
         <country>Russia</country>
         <city>Moscow</city>
@@ -111,25 +101,7 @@
         <protocol>binkp</protocol>
         <ipaddress>chernokozov.com</ipaddress>
     </node>
-    <node ftnaddress="2:5020/1906" requestby="email">
-        <country>Russia</country>
-        <city>Moscow</city>
-        <system>Damage BBS</system>
-        <sysop>Alexander Lobachev</sysop>
-        <email>ss_di@mail.ru</email>
-        <protocol>binkp</protocol>
-        <ipaddress>binkp.nauchi.ru</ipaddress>
-    </node>
-    <node ftnaddress="2:5053/54" requestby="email">
-        <country>Russia</country>
-        <city>Saratov</city>
-        <system>Zombie system</system>
-        <sysop>Denis Mikhlevich</sysop>
-        <email>denis@mikhlevich.ru</email>
-        <protocol>binkp</protocol>
-        <ipaddress>ftpserver.org.ru</ipaddress>
-    </node>
-    <node ftnaddress="2:5053/58" requestby="http">
+    <node ftnaddress="2:5053/58" requestby="email">
         <country>Russia</country>
         <city>Saratov</city>
         <system>AroundFamilyNode</system>
@@ -139,7 +111,7 @@
         <protocol>binkp</protocol>
         <ipaddress>fido.kruglikov.info</ipaddress>
         <pntrequesturl>http://fido.kruglikov.info/req.php</pntrequesturl>
-        <areas>http://fido.kruglikov.info/filebox/58.echos/5053-58.lst</areas>
+        <areas>https://fido.kruglikov.info/filebox/58.echos/58ECHO.LST</areas>
     </node>
     <node ftnaddress="2:5020/2141" requestby="http">
         <country>Russia</country>
