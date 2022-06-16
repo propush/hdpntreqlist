@@ -113,27 +113,4 @@
         <pntrequesturl>http://fido.kruglikov.info/req.php</pntrequesturl>
         <areas>https://fido.kruglikov.info/filebox/58.echos/58ECHO.LST</areas>
     </node>
-    <node ftnaddress="2:5020/2141" requestby="http">
-        <country>Russia</country>
-        <city>Moscow</city>
-        <system>Pushkin's BBS</system>
-        <sysop>Sergey Poziturin</sysop>
-        <note>Welcome, friends. A lot of echoes. No fileechoes. Добро пожаловать. Много эх. Файлэх нет.</note>
-        <email>offspr@pochta.ru</email>
-        <protocol>binkp</protocol>
-        <ipaddress>vp.propush.ru:24555</ipaddress>
-        <pntrequesturl>http://vp.propush.ru/pntreq/request.php</pntrequesturl>
-        <areasfull>http://vp.propush.ru/pntreq/areasfull</areasfull>
-    </node>
-    <node ftnaddress="2:5020/848" requestby="http">
-        <country>Russia</country>
-        <city>Moscow</city>
-        <system>NodeX Station</system>
-        <sysop>Ivan Agarkov</sysop>
-        <email>ivan.agarkov@gmail.com</email>
-        <protocol>binkp</protocol>
-        <ipaddress>jnode.in:24554</ipaddress>
-        <pntrequesturl>http://jnode.in/hdgpntrequest</pntrequesturl>
-        <areasfull>http://jnode.in/echoarea.csv</areasfull>
-    </node>
 </nodes>
